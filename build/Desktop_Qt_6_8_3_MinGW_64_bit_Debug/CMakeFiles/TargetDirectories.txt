@@ -1,0 +1,5 @@
+C:/Users/ZIADW/Downloads/KernelMem-Qt1/MemSim/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/KernelMem.dir
+C:/Users/ZIADW/Downloads/KernelMem-Qt1/MemSim/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/ZIADW/Downloads/KernelMem-Qt1/MemSim/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ZIADW/Downloads/KernelMem-Qt1/MemSim/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/KernelMem_autogen_timestamp_deps.dir
+C:/Users/ZIADW/Downloads/KernelMem-Qt1/MemSim/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/KernelMem_autogen.dir
